@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Secure Child Locator</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
